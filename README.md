@@ -5,3 +5,7 @@
 ## Week 0
 
 Check about it [here](./week-0-scratch/README.md)
+
+## Week 1
+
+Check about it [here](./week-1-c/README.md)
