@@ -9,3 +9,7 @@ Check about it [here](./week-0-scratch/README.md)
 ## Week 1
 
 Check about it [here](./week-1-c/README.md)
+
+## Week 2
+
+Check about it [here](./week-2-arrays/README.md)
